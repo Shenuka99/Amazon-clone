@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+
+  "emulators": {
+    "host": 6000,
+    "port": 6001
+  }
+}
